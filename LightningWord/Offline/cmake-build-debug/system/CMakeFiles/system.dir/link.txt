@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsystem.a  CMakeFiles/system.dir/Game.cpp.o CMakeFiles/system.dir/GameLevel.cpp.o CMakeFiles/system.dir/IO.cpp.o CMakeFiles/system.dir/Interface.cpp.o CMakeFiles/system.dir/System.cpp.o CMakeFiles/system.dir/User.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsystem.a

@@ -1,0 +1,6 @@
+/Users/samuel/Desktop/LightningWord/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/samuel/Desktop/LightningWord/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/samuel/Desktop/LightningWord/cmake-build-debug/CMakeFiles/LightningWord.dir
+/Users/samuel/Desktop/LightningWord/cmake-build-debug/system/CMakeFiles/rebuild_cache.dir
+/Users/samuel/Desktop/LightningWord/cmake-build-debug/system/CMakeFiles/edit_cache.dir
+/Users/samuel/Desktop/LightningWord/cmake-build-debug/system/CMakeFiles/system.dir
